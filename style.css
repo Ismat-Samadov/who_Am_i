@@ -1,9 +1,18 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+} */
+
 body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
     overflow: hidden;
+    background: linear-gradient(to bottom right, #3498db, #1abc9c);
 }
+
 
 #map {
     width: 100vw;
