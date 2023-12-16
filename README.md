@@ -35,8 +35,4 @@ Feel free to customize the application based on your needs. You can modify the s
 
 ## Author
 
-[Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Ismat Samadov
