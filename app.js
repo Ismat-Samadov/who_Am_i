@@ -34,7 +34,7 @@ async function main() {
     try {
         const publicIP = await getPublicIP();
         const geolocation = await getIPGeolocation(publicIP);
-        console.log(geolocation); // Log the geolocation data to the console
+        console.log(geolocation);
         updateUI(geolocation);
     } catch (error) {
         console.error(error);
